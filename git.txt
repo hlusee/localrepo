@@ -1,0 +1,7 @@
+workflow of local git:
+1.github repo or file
+2.clone
+3.changes
+4.add
+5.commit
+6.push
